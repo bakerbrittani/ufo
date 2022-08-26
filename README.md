@@ -4,7 +4,15 @@
 We've helped create a landing page for UFO enthusiasts (pun-intended). We intially had one working filter for "date" but the client wanted to give users the option to filter by multiple criteria simultaneously. We added additional filter fields onto the site, and allowed the table to automatically update based on user-input into each field. 
 
 ## Results
-The table filter fields are located directly to the left of the table itself. The user can clear default criteria and enter in search criteria of their own in some, or all of the fields. My recommendation to the user would be to start with a larger data set, so use a less strict filter such as "State" to return a larger sample size to analyze. Then, when patterns or trends are identified they can use additional filter fields to narrow the results further. 
+The table filter fields are located directly to the left of the table itself. The user can clear default criteria and enter in search criteria of their own in some, or all of the fields.
+
+![Pic](/static/images/FilterCriteriaFields.png)
+
+My recommendation to the user would be to start with a larger data set, so use a less strict filter such as "State" to return a larger sample size to analyze. 
+
+![Pic](/static/images/FilterCriteriaState.png)
+
+Then, when patterns or trends are identified they can use additional filter fields to narrow the results further. 
 
 ## Summary
 In concept, the idea of multiple filter options on this type of table is a great idea. The execution could be a bit cleaner though. 
